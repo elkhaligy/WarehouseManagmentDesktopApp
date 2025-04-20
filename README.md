@@ -4,25 +4,25 @@ A comprehensive Windows Forms application for managing commercial company wareho
 
 ## 📷 Screenshots
 ### 🏢 Warehouse Management
-![Warehouse Management](./images/screenshots/warehouse.png)
+![Warehouse Management](./Images/screenshots/warehouse.png)
 *Manage multiple warehouses and their inventory*
 ### 🏢 Supplier Management
-![Warehouse Management](./images/screenshots/supplier.png)
+![Warehouse Management](./Images/screenshots/supplier.png)
 *Manage multiple warehouses and their inventory*
 
 
 ### 📦 Inventory Tracking
-![Inventory](./images/screenshots/contextMenu.png)
-![Inventory](./images/screenshots/currentStock.png)
+![Inventory](./Images/screenshots/contextMenu.png)
+![Inventory](./Images/screenshots/currentStock.png)
 *Real-time inventory monitoring and management*
 
 ### 📋 Supply Permissions
-![Supply](./images/screenshots/supply1.png)
-![Supply](./images/screenshots/supply2.png)
+![Supply](./Images/screenshots/supply1.png)
+![Supply](./Images/screenshots/supply2.png)
 *Supply permission management interface*
 
 ### 📤 Release Management
-![Release](./images/screenshots/release.png)
+![Release](./Images/screenshots/release.png)
 *Release permission and order processing*
 ## 🌟 Features
 
