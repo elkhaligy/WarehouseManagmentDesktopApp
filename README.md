@@ -2,6 +2,7 @@
 
 A comprehensive Windows Forms application for managing commercial company warehouses, inventory, and supply chain operations. Built with .NET 8.0 and Entity Framework Core, this application provides a robust solution for warehouse operations management.
 
+[Video Demo](https://drive.google.com/file/d/1tI04yo515LyLTEuMTJ3ZAbBXb-5ZupOo/view?usp=drive_link)
 ## 📷 Screenshots
 ### 🏢 Warehouse Management
 ![Warehouse Management](./Images/screenshots/warehouse.png)
