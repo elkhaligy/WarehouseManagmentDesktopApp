@@ -1,0 +1,104 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.suo
+*.vcxproj.user
+.vscode/
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.meta
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Windows Forms Designer generated files
+*.resx.bak
+*.Designer.cs.bak
+
+# Logs & Debugging
+*.log
+*.tlog
+*.pdb
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Database Files
+*.mdf
+*.ldf
+*.ndf
+
+# Local configuration
+appsettings*.json
+secrets.json
+*.Development.json
+launchSettings.json
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Rider & JetBrains
+.idea/
+*.sln.iml
+*.iws
+.idea_modules/
+
+# Test Results
+TestResults/
+[Tt]est[Rr]esult*/
+
+# Build Results
+[Dd]ist/
+[Pp]ublish/
+
+# Temporary Files
+*.tmp
+*.temp
+~$*
+*~
+
+# Code coverage results
+*.coverage
+*.coveragexml
